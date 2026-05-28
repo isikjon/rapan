@@ -1,0 +1,23 @@
+.DS_Store
+
+# Android / Gradle generated files
+.gradle/
+**/.gradle/
+**/build/
+
+# Local machine config
+local.properties
+**/local.properties
+
+# Built and delivery artifacts
+*.apk
+*.aab
+*.apks
+*.zip
+delivery/
+delivery_v*/
+built_apks/
+
+# Temporary verification screenshots and previews
+*.png
+!rapan/app/src/**/res/**/*.png

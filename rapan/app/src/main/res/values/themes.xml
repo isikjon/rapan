@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.RapanMiniApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/rapan_gold</item>
+        <item name="colorPrimaryVariant">@color/rapan_gold</item>
+        <item name="android:statusBarColor">@color/rapan_gold</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
